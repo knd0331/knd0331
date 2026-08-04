@@ -40,6 +40,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=knd0331&hide_border=true&area=true&radius=8&bg_color=00000000&color=059669&line=059669&point=047857&title_color=059669&text_color=57606a" alt="Contribution activity graph" width="100%" />
 </picture>
 
+<br />
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/knd0331/svg?sort=cost&compact=1)](https://tokscale.ai/u/knd0331)
+
 </div>
 
 ---
