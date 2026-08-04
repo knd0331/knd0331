@@ -61,10 +61,6 @@
 | [erase-studio](https://github.com/knd0331/erase-studio) | React · TypeScript | ComfyUI 기반 AI 배경 제거 웹 애플리케이션 |
 | [llm-cost-tracker](https://github.com/knd0331/llm-cost-tracker) | Spring Boot · React | TokenLedger — LLM API 사용량·비용 추적 및 예산 알림 대시보드 |
 | [z-vision](https://github.com/knd0331/z-vision) | Python | Z-Image-Turbo 기반 AI 이미지 생성 웹앱 (MLX·CUDA·MPS) |
-| doc-intelligence 🔒 | Python · LangGraph | FastAPI + LangChain 기반 문서 분석 어시스턴트 (RAG · 에이전트) |
-| quant-signal-bot 🔒 | Python | ETH·나스닥 시그널을 분석해 텔레그램으로 알리는 봇 |
-
-<sub>🔒 = 비공개 저장소</sub>
 
 ---
 
