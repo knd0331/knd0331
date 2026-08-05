@@ -26,9 +26,28 @@
 
 ---
 
+## 🤖 AI Usage
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/knd0331/svg?sort=cost)](https://tokscale.ai/u/knd0331)
+
+</div>
+
+---
+
 ## 📊 Stats
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-innovation20.vercel.app/api?username=knd0331&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-innovation20.vercel.app/api?username=knd0331&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=059669&icon_color=059669&text_color=57606a" alt="GitHub stats" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-innovation20.vercel.app/api/top-langs/?username=knd0331&layout=compact&langs_count=6&hide=html,css,shell,dockerfile,mako&hide_border=true&bg_color=00000000&title_color=34d399&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-innovation20.vercel.app/api/top-langs/?username=knd0331&layout=compact&langs_count=6&hide=html,css,shell,dockerfile,mako&hide_border=true&bg_color=00000000&title_color=059669&text_color=57606a" alt="Most used languages" height="180" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=knd0331&hide_border=true&background=00000000&ring=34d399&fire=34d399&currStreakNum=34d399&currStreakLabel=34d399&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
@@ -39,10 +58,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=knd0331&hide_border=true&area=true&radius=8&bg_color=00000000&color=34d399&line=34d399&point=6ee7b7&title_color=34d399&text_color=8b949e" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=knd0331&hide_border=true&area=true&radius=8&bg_color=00000000&color=059669&line=059669&point=047857&title_color=059669&text_color=57606a" alt="Contribution activity graph" width="100%" />
 </picture>
-
-<br />
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/knd0331/svg?sort=cost&compact=1)](https://tokscale.ai/u/knd0331)
 
 </div>
 
