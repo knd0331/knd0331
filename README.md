@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/knd0331/svg?sort=cost)](https://tokscale.ai/u/knd0331)
+[![Tokscale Stats](https://tokscale.ai/api/embed/knd0331/svg?sort=cost&compact=1)](https://tokscale.ai/u/knd0331)
 
 </div>
 
