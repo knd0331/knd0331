@@ -41,8 +41,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-innovation20.vercel.app/api?username=knd0331&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=c9d1d9" />
-  <img src="https://github-readme-stats-innovation20.vercel.app/api?username=knd0331&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=059669&icon_color=059669&text_color=57606a" alt="GitHub stats" height="180" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-innovation20.vercel.app/api?username=knd0331&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-innovation20.vercel.app/api?username=knd0331&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=059669&icon_color=059669&text_color=57606a" alt="GitHub stats" height="180" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-innovation20.vercel.app/api/top-langs/?username=knd0331&layout=compact&langs_count=6&hide=html,css,shell,dockerfile,mako&hide_border=true&bg_color=00000000&title_color=34d399&text_color=c9d1d9" />
