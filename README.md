@@ -50,8 +50,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?v=2&user=knd0331&exclude_days=Sat,Sun&hide_border=true&background=00000000&ring=34d399&fire=34d399&currStreakNum=34d399&currStreakLabel=34d399&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
-  <img src="https://streak-stats.demolab.com?v=2&user=knd0331&exclude_days=Sat,Sun&hide_border=true&background=00000000&ring=059669&fire=059669&currStreakNum=059669&currStreakLabel=059669" alt="GitHub streak" height="180" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?v=2&user=knd0331&exclude_days=Sat%2CSun&hide_border=true&background=00000000&ring=34d399&fire=34d399&currStreakNum=34d399&currStreakLabel=34d399&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
+  <img src="https://streak-stats.demolab.com?v=2&user=knd0331&exclude_days=Sat%2CSun&hide_border=true&background=00000000&ring=059669&fire=059669&currStreakNum=059669&currStreakLabel=059669" alt="GitHub streak" height="180" />
 </picture>
 
 <picture>
