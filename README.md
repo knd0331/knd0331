@@ -55,8 +55,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=knd0331&hide_border=true&area=true&radius=8&bg_color=00000000&color=34d399&line=34d399&point=6ee7b7&title_color=34d399&text_color=8b949e" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knd0331&hide_border=true&area=true&radius=8&bg_color=00000000&color=059669&line=059669&point=047857&title_color=059669&text_color=57606a" alt="Contribution activity graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph-innovation20.vercel.app/graph?username=knd0331&hide_border=true&area=true&radius=8&bg_color=00000000&color=34d399&line=34d399&point=6ee7b7&title_color=34d399&text_color=8b949e" />
+  <img src="https://activity-graph-innovation20.vercel.app/graph?username=knd0331&hide_border=true&area=true&radius=8&bg_color=00000000&color=059669&line=059669&point=047857&title_color=059669&text_color=57606a" alt="Contribution activity graph" width="100%" />
 </picture>
 
 </div>
