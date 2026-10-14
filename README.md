@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=460&lines=Backend+%2B+AI+Engineer;Building+products+with+Claude+Code;Quant+signals%2C+RAG%2C+and+automation)](https://github.com/knd0331)
 
-<img src="https://komarev.com/ghpvc/?username=knd0331&label=Profile%20views&color=10b981&style=flat" alt="Profile views" />
+<img src="https://profile-views-proxy.vercel.app/api/views?username=knd0331&label=Profile%20views&color=10b981&style=flat" alt="Profile views" />
 
 </div>
 
